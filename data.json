@@ -7,7 +7,17 @@
 		"titulo2": "Integrante de De Killtros",
 		"escrito2": "De Killtros, un grupo oriundo de La Florida, está compuesto por Chyste MC, JavierKilltro, Noyre, Petizo's, Adosene y DJ Transe. Desde 2005, estos talentosos artistas han unido fuerzas en este proyecto, fusionando sus experiencias previas y formando una base sólida",
 		"imagen": "img/chys2.jpg",
-		"descri": "Chystemyc en La casa parlante"
+		"descri": "Chystemyc en La casa parlante",
+		"nombre": " Tiro de Gracia",
+		"descripcion": "Grupo musical que alcanzó su éxito en el año 1997 con su lanzamiento del álbum, en sus inicios los temas que tocaban eran de carácter político.En 1996, Tiro de Gracia sorprendió con su demo 'El Juego Verdadero' en un programa piloto de hip hop dirigido por Juan Sebastián Domínguez y la productora Cubo Negro.",
+		"periodo": "Los 90's",
+		"miembros": "Juan Sativo",
+		"exmiembros": "Zaturno, Lenwa Dura, Explícito, Dj Raff, Camilo Cintolesi, Adonai, DJ Mataskaupas, Sebalanzar, DJ Navarro",
+		"discos": ["Ser hümano!! (1997 - EMI, reeditado el 2013), Decisión (1999 - EMI), Retorno de misericordia (2001 - EMI), Patrón del vicio (2003 - EMI), Impacto certero (2004 - EMI), Música de vida (2010)"],
+		"demo": ["Homosapiens (1992), Arma calibrada (1993) Música de vida (2010)"],
+		"otros generos": ["Dancehall, G-Funk, Raggamuffin, R&B"],
+		"foto1": "img1.jpg",
+		"AltText": "grupo tiro de gracia, 1997"
 		
 	
 	},
