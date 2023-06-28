@@ -6,20 +6,20 @@
 		
 	},
 	{
-		"nombre": " Aerolíneas Makiza",
-		"descripcion": "(Sony Music)",
+		"titulo": " Aerolíneas Makiza",
+		"escrito": "(Sony Music)",
 		"año": "2004",
 		"foto": "diskma.jpg"
 	},
 	{
-		"nombre": " Vida salvaje",
-		"descripcion": "(Aguasonica Producciones)",
+		"titulo": " Vida salvaje",
+		"escrito": "(Aguasonica Producciones)",
 		"año": "2005",
 		"foto": "diskma2.jpg"
 	},
 	{
-		"nombre": " Casino Royale",
-		"descripcion": "(La Oreja)",
+		"titulo": " Casino Royale",
+		"escrito": "(La Oreja)",
 		"año": "2005",
 		"foto": "diskma3.jpg"
 	}
