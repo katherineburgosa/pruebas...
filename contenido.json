@@ -120,7 +120,18 @@
     "medio":"img/makidoc.jpg",
     "tiempo":"1997",
     "pic":"img/viverap.jpg",
-    "imagendos":"img/dekil.jpg"
+    "imagendos":"img/dekil.jpg",
+
+    "monoun": "img/Lenwa.jpg",
+    "altdos":"imagen de lenwa dura",
+    "tit":"Lenwa Dura",
+    "subtit":"Amador Fabián Sánchez González",
+    "des":"Nació el 26 de marzo del 76, conforma parte de tiro de gracia desde 1993",
+    "monodo": "img/mono.jpg",
+    "altdo":"imagen de juan sativo",
+    "titdo":"Juan sativo",
+    "subtitdo":"Juan Alberto Salazar Rodríguez",
+     "desdo":"No c"
 },
     {
     "cantante":"Trovadores Tales",
