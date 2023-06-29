@@ -39,7 +39,11 @@ h5{
   padding: 50px;
   align-items: center;
 }
-
+#losDiscos{
+  align-items: center;
+  justify-content: center;
+ display: block;
+}
     
 
 
@@ -180,7 +184,7 @@ h5{
 </section>
 
         <section id="inte">
-            <h2 class="text-center text-danger py-6 mt-5"><i></i>Integrantes</h2>
+            <h2 class="text-center text-danger py-6 mt-5"><i></i></h2>
         
             <div class="container py-3">
              
@@ -279,62 +283,68 @@ h5{
 
 <script></script>
           
-          <script>
-            async function discos() {
-                const consulta = await fetch("https://raw.githubusercontent.com/katherineburgosa/rap-chileno/main/lainfodis.json");
-                const data = await consulta.json();
-                var donde = document.querySelector("#disco");
-                data.forEach(function (t, i) {
-                    donde.innerHTML += '<article class="col"><div id="losco" class="card h-100 shadow-sm  "><img id="lafoto" src="' + t.foto + '" class=""><div class="card-body"><h3 class="fs-2"><p class="text-danger text-center p-0 m-0">' + t.nombre + "</p></h3><p class='text-center' >" + t.año + "</p ></div></div></article>";
-                });
-            }
-            
-        
-            async function portfolio() {
-                const consulta = await fetch("https://raw.githubusercontent.com/katherineburgosa/pruebas.../main/contenido.json");
-                const data = await consulta.json();
-                const mas = data.length;
-                var n = new URLSearchParams(window.location.search).get("nro");
-                n = Number(n);
-                
-        
-                if (n < 1) {
-                    document.querySelector("#next").innerHTML = '<a href="single.html?nro=' + (n + 1) + '" class="btn btn-sm btn-outline-secondary">siguiente &rarr;</a>';
-                } else if (n > 0 && n < mas - 1) {
-                    document.querySelector("#back").innerHTML = '<a href="single.html?nro=' + (n - 1) + '" class="btn btn-sm btn-outline-secondary">&larr; anterior</a>';
-                    document.querySelector("#next").innerHTML = '<a href="single.html?nro=' + (n + 1) + '" class="btn btn-sm btn-outline-secondary">siguiente &rarr;</a>';
-                } else {
-                    document.querySelector("#back").innerHTML = '<a href="single.html?nro=' + (n - 1) + '" class="btn btn-sm btn-outline-secondary">&larr; anterior</a>';
-                }
-            }
-        
-            async function contenidos() {
-                const contenido = await fetch("https://raw.githubusercontent.com/katherineburgosa/pruebas.../main/contenido.json");
-                const data = await contenido.json();
-                var n = new URLSearchParams(window.location.search).get("nro");
-                n = Number(n);
-                document.querySelector("#frase").innerHTML = '<div class="py-5 row-cols-md-3" style="background: #e6edd0 url(\'' + data[n].imagen + '\') center center no-repeat; background-size: cover; width: 100%; height: 100vh; font-family: \'Oswald\', sans-serif; outline: none;"><div class="container"><div class="row"><div class="col py-5"><h1 class="loke">' + data[n].cantante + '</h1><h2 class="loke2">' + data[n].tiempo + '</h2></div></div></div></div>';
-        
-                document.querySelector("#este").innerHTML = '<div class="container"><div class="row"><div class="col-md-8 mx-auto text-danger "> <h5 class="text-center">' + data[n].titulo + '</h5><p>' + data[n].escrito + '</p></div></div></div>';
-        
-                document.querySelector("#image").innerHTML = '<div class="text-center" id="sol"><img class="col-5 img-responsive rounded" src="' + data[n].medio + '" alt="' + data[n].alt1 + '"></div>';
-                document.querySelector("#otro").innerHTML = '<div class="container"><div class="row"><div class="col-md-8 mx-auto text-danger "> <h5 class="text-center">' + data[n].titulo2 + '</h5><p>' + data[n].escrito2 + '</p></div></div></div>';
-                document.querySelector("#bak").innerHTML = '<div class="text-center" id="cas" style="background: url(\'' + data[n].medio + '\') center center no-repeat;width: 100%;background-size:cover;"><div><h5>' + data[n].descri + '</h5></div></div>';
-                document.querySelector("#inte").innerHTML = '<div class="row d-flex justify-content-center align-items-center h-100"><div class="col col-md-9 col-lg-7 col-xl-5"><div class="card-body p-4"><div class="d-flex text-black"><div class="flex-shrink-0"><img src="' + data[n].monoun + '" alt="' + data[n].altdos + '" style="width: 160px; border-radius: 100px;"></div><div class="flex-grow-1 ms-3"><h5 class="mb-1">' + data[n].tit + '</h5><p>' + data[n].subtit + '</p><p class="mb-1 pb-1">' + data[n].des + '</p></div></div></div></div><div class="row d-flex justify-content-center align-items-center h-40"><div class="col col-md-9 col-lg-7 col-xl-5"><div class="card-body p-4"><div class="d-flex text-black"><div class="flex-shrink-0"><img src="' + data[n].monodo + '" alt="' + data[n].altdo + '" style="width: 160px; border-radius: 100px;"></div><div class="flex-grow-1 ms-3"><h5 class="mb-1">' + data[n].titdo + '</h5><p>' + data[n].subtitdo + '</p><p class="mb-1 pb-1">' + data[n].desdo + '</p></div></div></div></div>';
-            }
-        
-            async function loadPage() {
-                try {
-                    await discos();
-                    await portfolio();
-                    await contenidos();
-                } catch (error) {
-                    console.error(error);
-                }
-            }
-        
-            loadPage();
-        </script>
+<script>
+  async function discos() {
+      const consulta = await fetch("https://raw.githubusercontent.com/katherineburgosa/rap-chileno/main/lainfodis.json");
+      const data = await consulta.json();
+      var donde = document.querySelector("#disco");
+      var pageNumber = getPageNumber();
+
+      data.slice(pageNumber * 4, pageNumber * 4 + 4).forEach(function(t, i) {
+          donde.innerHTML += '<article class="col"><div id="losco" class="card h-100 shadow-sm  "><img id="lafoto" src="' + t.foto + '" class=""><div class="card-body"><h3 class="fs-2"><p class="text-danger text-center p-0 m-0">' + t.nombre + "</p></h3><p class='text-center' >" + t.año + "</p ></div></div></article>";
+      });
+  }
+
+  function getPageNumber() {
+      const nro = new URLSearchParams(window.location.search).get("nro");
+      return nro ? parseInt(nro) : 0;
+  }
+
+  async function portfolio() {
+      const consulta = await fetch("https://raw.githubusercontent.com/katherineburgosa/pruebas.../main/contenido.json");
+      const data = await consulta.json();
+      const mas = data.length;
+      var n = getPageNumber();
+
+      if (n < 1) {
+          document.querySelector("#next").innerHTML = '<a href="single.html?nro=' + (n + 1) + '" class="btn btn-sm btn-outline-secondary">siguiente &rarr;</a>';
+      } else if (n > 0 && n < mas - 1) {
+          document.querySelector("#back").innerHTML = '<a href="single.html?nro=' + (n - 1) + '" class="btn btn-sm btn-outline-secondary">&larr; anterior</a>';
+          document.querySelector("#next").innerHTML = '<a href="single.html?nro=' + (n + 1) + '" class="btn btn-sm btn-outline-secondary">siguiente &rarr;</a>';
+      } else {
+          document.querySelector("#back").innerHTML = '<a href="single.html?nro=' + (n - 1) + '" class="btn btn-sm btn-outline-secondary">&larr; anterior</a>';
+      }
+  }
+
+  async function contenidos() {
+  const contenido = await fetch("https://raw.githubusercontent.com/katherineburgosa/pruebas.../main/contenido.json");
+  const data = await contenido.json();
+  var n = getPageNumber();
+  document.querySelector("#frase").innerHTML = '<div class="py-5 row-cols-md-3" style="background: #e6edd0 url(\'' + data[n].imagen + '\') center center no-repeat; background-size: cover; width: 100%; height: 100vh; font-family: \'Oswald\', sans-serif; outline: none;"><div class="container"><div class="row"><div class="col py-5"><h1 class="loke">' + data[n].cantante + '</h1><h2 class="loke2">' + data[n].tiempo + '</h2></div></div></div></div>';
+
+  document.querySelector("#este").innerHTML = '<div class="container"><div class="row"><div class="col-md-8 mx-auto text-danger "> <h5 class="text-center">' + data[n].titulo + '</h5><p>' + data[n].escrito + '</p></div></div></div>';
+
+  document.querySelector("#image").innerHTML = '<div class="text-center" id="sol"><img class="col-5 img-responsive rounded" src="' + data[n].medio + '" alt="' + data[n].alt1 + '"></div>';
+  document.querySelector("#otro").innerHTML = '<div class="container"><div class="row"><div class="col-md-8 mx-auto text-danger "> <h5 class="text-center">' + data[n].titulo2 + '</h5><p>' + data[n].escrito2 + '</p></div></div></div>';
+  document.querySelector("#bak").innerHTML = '<div class="text-center" id="cas" style="background: url(\'' + data[n].medio + '\') center center no-repeat;width: 100%;background-size:cover;"><div><h5>' + data[n].descri + '</h5></div></div>';
+
+  
+  if (n === 0 || n === 1 || n === 2 || n === 3|| n === 4 || n === 5|| n === 10) {
+    document.querySelector("#inte").innerHTML = '<div class="row d-flex justify-content-center align-items-center h-100"><div class="col col-md-9 col-lg-7 col-xl-5"><div class="card-body p-4"><div class="d-flex text-black"><div class="flex-shrink-0"><img src="' + data[n].monoun + '" alt="' + data[n].altdos + '" style="width: 160px; border-radius: 100px;"></div><div class="flex-grow-1 ms-3"><h5 class="mb-1">' + data[n].tit + '</h5><p>' + data[n].subtit + '</p><p class="mb-1 pb-1">' + data[n].des + '</p></div></div></div></div><div class="row d-flex justify-content-center align-items-center h-40"><div class="col col-md-9 col-lg-7 col-xl-5"><div class="card-body p-4"><div class="d-flex text-black"><div class="flex-shrink-0"><img src="' + data[n].monodo + '" alt="' + data[n].altdo + '" style="width: 160px; border-radius: 100px;"></div><div class="flex-grow-1 ms-3"><h5 class="mb-1">' + data[n].titdo + '</h5><p>' + data[n].subtitdo + '</p><p class="mb-1 pb-1">' + data[n].desdo + '</p></div></div></div></div>';
+  }
+}
+  async function loadPage() {
+      try {
+          await discos();
+          await portfolio();
+          await contenidos();
+      } catch (error) {
+          console.error(error);
+      }
+  }
+
+  loadPage();
+</script>
 
 
 
@@ -344,54 +354,41 @@ h5{
 
 
 
-
-
-
-
+<script>
+  document.addEventListener("DOMContentLoaded", function(event) {
+  
+      const showNavbar = (toggleId, navId, bodyId, headerId) => {
+          const toggle = document.getElementById(toggleId),
+              nav = document.getElementById(navId),
+              bodypd = document.getElementById(bodyId),
+              headerpd = document.getElementById(headerId)
+  
+          // Validar que todas las variables existan
+          if (toggle && nav && bodypd && headerpd) {
+              toggle.addEventListener('click', () => {
+                  // mostrar la barra de navegación
+                  nav.classList.toggle('show');
+                  // cambiar el icono
+                  toggle.classList.toggle('bx-x');
+                  // agregar relleno al cuerpo
+                  bodypd.classList.toggle('body-pd');
+                  // agregar relleno al encabezado
+                  headerpd.classList.toggle('body-pd');
+              });
+          }
+      }
+  
+      showNavbar('header-toggle', 'nav-bar', 'body-pd', 'header');
+  
+    
+  
+  });
+  </script>
 
 
       
 
-        <script>
-            document.addEventListener("DOMContentLoaded", function(event) {
-   
-   const showNavbar = (toggleId, navId, bodyId, headerId) =>{
-   const toggle = document.getElementById(toggleId),
-   nav = document.getElementById(navId),
-   bodypd = document.getElementById(bodyId),
-   headerpd = document.getElementById(headerId)
-   
-   // Validate that all variables exist
-   if(toggle && nav && bodypd && headerpd){
-   toggle.addEventListener('click', ()=>{
-   // show navbar
-   nav.classList.toggle('show')
-   // change icon
-   toggle.classList.toggle('bx-x')
-   // add padding to body
-   bodypd.classList.toggle('body-pd')
-   // add padding to header
-   headerpd.classList.toggle('body-pd')
-   })
-   }
-   }
-   
-   showNavbar('header-toggle','nav-bar','body-pd','header')
-   
-   /*===== LINK ACTIVE =====*/
-   const linkColor = document.querySelectorAll('.nav_link')
-   
-   function colorLink(){
-   if(linkColor){
-   linkColor.forEach(l=> l.classList.remove('active'))
-   this.classList.add('active')
-   }
-   }
-   linkColor.forEach(l=> l.addEventListener('click', colorLink))
-   
-    // Your code to run since DOM is loaded and ready
-   });
-        </script>
+       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="script.js"></script>
         
