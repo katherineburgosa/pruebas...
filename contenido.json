@@ -31,6 +31,7 @@
 },
 {   
     "cantante":"La pozze latina",
+    "cate":"img/pozze.jpg",
     "titulo": "Un poco de Chyste...",
     "escrito": "Chystemc, el alias del MC Diego Torres Rojas oriundo de La Florida, es uno de los raperos más activos y populares de la escena local. Comenzó su carrera en el colectivo De Killtros y actualmente cuenta con cuatro discos en solitario. Con presentaciones en diversos eventos y festivales, una gran presencia en las redes sociales y su estilo único al manejar el micrófono, Chystemc se ha posicionado como un artista en plena forma. A fines de julio lanzó el video de 'Ma Ar Ei Pi', una canción de su último álbum 'Techymuv' (2016), un trabajo que ha logrado impactar tanto en Chile como en Latinoamérica. Originario de Santiago, Chystemc ha participado en batallas escritas como Línea Diéciseis y ha sido jurado en la Batalla de los Gallos, lo que demuestra su cercanía con el freestyle y la improvisación. Chyste es un rapero espontáneo que ha sabido conquistar a una audiencia fiel, y ya se encuentra preparando sus próximas canciones y shows.",
     "foto": "img/1pozze.jpg",
@@ -58,6 +59,7 @@
 },
 {
     "cantante":"Makiza",
+    "cate":"img/makiz.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Chystemc, el alias del MC Diego Torres Rojas oriundo de La Florida, es uno de los raperos más activos y populares de la escena local. Comenzó su carrera en el colectivo De Killtros y actualmente cuenta con cuatro discos en solitario. Con presentaciones en diversos eventos y festivales, una gran presencia en las redes sociales y su estilo único al manejar el micrófono, Chystemc se ha posicionado como un artista en plena forma. A fines de julio lanzó el video de 'Ma Ar Ei Pi', una canción de su último álbum 'Techymuv' (2016), un trabajo que ha logrado impactar tanto en Chile como en Latinoamérica. Originario de Santiago, Chystemc ha participado en batallas escritas como Línea Diéciseis y ha sido jurado en la Batalla de los Gallos, lo que demuestra su cercanía con el freestyle y la improvisación. Chyste es un rapero espontáneo que ha sabido conquistar a una audiencia fiel, y ya se encuentra preparando sus próximas canciones y shows.",
     "foto": "img/dekil.jpg",
@@ -84,6 +86,7 @@
 },
 {
     "cantante":"Nemesis",
+    "cate":"img/tiro.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
@@ -110,6 +113,7 @@
 },
 {
     "cantante":"Tapia Rabia Jackson",
+    "cate":"img/tiro.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
@@ -136,6 +140,7 @@
 },
     {
     "cantante":"Trovadores Tales",
+    "cate":"img/tiro.jpg",
     "titulo": "Un poco de Chyste...",
     "escrito": "Chystemc, el alias del MC Diego Torres Rojas oriundo de La Florida, es uno de los raperos más activos y populares de la escena local. Comenzó su carrera en el colectivo De Killtros y actualmente cuenta con cuatro discos en solitario. Con presentaciones en diversos eventos y festivales, una gran presencia en las redes sociales y su estilo único al manejar el micrófono, Chystemc se ha posicionado como un artista en plena forma. A fines de julio lanzó el video de 'Ma Ar Ei Pi', una canción de su último álbum 'Techymuv' (2016), un trabajo que ha logrado impactar tanto en Chile como en Latinoamérica. Originario de Santiago, Chystemc ha participado en batallas escritas como Línea Diéciseis y ha sido jurado en la Batalla de los Gallos, lo que demuestra su cercanía con el freestyle y la improvisación. Chyste es un rapero espontáneo que ha sabido conquistar a una audiencia fiel, y ya se encuentra preparando sus próximas canciones y shows.",
     "foto": "img/dekil.jpg",
@@ -166,6 +171,7 @@
 },
     {
     "cantante":"Portavoz",
+    "cate":"img/1portavoz.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
@@ -191,6 +197,7 @@
     "imagendos":"img/dekil.jpg"
 },{
     "cantante":"Jonas Sanchez",
+    "cate":"img/jonas.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
@@ -217,6 +224,7 @@
 },
     { 
     "cantante":"Bubaseta",
+    "cate":"img/bubaseta.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
@@ -243,13 +251,14 @@
 },
     {
     "cantante":"ChysteMc",
+    "cate":"img/chyste.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
     "alt1": "esta imagen es de",
     "titulo2": "Algo está pasando",
     "escrito2": "Tiro de Gracia es un influyente grupo de hip hop chileno que se formó en 1991. Está compuesto por los hermanos Juan y Zaturno, junto con Lenwa Dura como DJ y productor. Su música fusiona elementos de hip hop, rock y reggae, y se caracteriza por sus letras sociales y políticas. En 1997, lanzaron su primer álbum, &quot;Ser Humano&quot;, el cual tuvo un gran impacto en la escena musical chilena. El disco incluía canciones como &quot;El juego verdadero&quot; y &quot;Melaza&quot;, que se convirtieron en éxitos y los posicionaron comoreferentes del hip hop en el país. A lo largo de su carrera, Tiro de Gracia lanzó varios álbumes más, como &quot;Decisión&quot;, &quot;Patrón&quot; y &quot;Serpientes en el jardín. Estos trabajos consolidaron su popularidad y les permitieron realizar giras tanto en Chile como en el extranjero. Sin embargo, en 2019, el grupo anunció su separación debido a diferencias internas. A pesar de esto, los miembros han seguido involucrados en la música de forma individual. Juan y Zaturno han continuado sus carreras como solistas, y Lenwa Dura ha trabajado como DJ y productor para otros artistas. En resumen, Tiro de Gracia es una banda icónica del hip hop chileno, que dejó un legado importante en la música del país. Aunque ya no están juntoscomo grupo, su influencia perdura y su música sigue siendo apreciada por sus seguidores.",
-    "imagen": "img/1tiro.jpg",
+    "imagen": "img/chyste1.jpg",
     "descri": "Chystemyc en La casa parlante",
     "monoun": "img/mono.jpg",
     "altdos":"imagen de movimiento original",
@@ -270,6 +279,7 @@
     ,
     {
     "cantante":"Movimiento Original",
+    "cate":"img/movori.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
@@ -297,6 +307,7 @@
     ,
     {
     "cantante":"Cydtronick",
+    "cate":"img/cid.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
