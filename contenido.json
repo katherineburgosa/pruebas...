@@ -9,25 +9,21 @@
     "escrito2": "De Killtros, un grupo oriundo de La Florida, está compuesto por Chyste MC, JavierKilltro, Noyre, Petizo's, Adosene y DJ Transe. Desde 2005, estos talentosos artistas han unido fuerzas en este proyecto, fusionando sus experiencias previas y formando una base sólida",
     "imagen": "img/1tiro.jpg",
     "descri": "El juego verdadero",
-    "monoun": "img/mono.jpg",
     "altdos":"imagen de movimiento original",
-    "tit":"I love you a lo vio",
-    "subtit":"Junto a Movimiento original",
-    "des":"No c",
-    "monodo": "img/mono.jpg",
-    "altdo":"imagen de movimiento original",
-    "titdo":"I love you a lo vio",
-    "subtitdo":"Junto a Movimiento original",
-    "desdo":"No c",
     "medio":"img/2tiro.jpg",
-    
     "tiempo":"1997",
     "pic":"img/2tiro.jpg",
-    "imagendos":"img/dekil.jpg"
+    "imagendos":"img/dekil.jpg",
     
-    
-    
-
+    "monoun": "img/Lenwa.jpg",
+    "tit":"Lenwua Dura",
+    "subtit":"Amador Fabián Sánchez González",
+    "des":"Nació el 26 de marzo del 76, conforma parte de tiro de gracia desde 1993",
+    "monodo": "img/mono.jpg",
+    "altdo":"imagen de movimiento original",
+    "titdo":"Juan sativo",
+    "subtitdo":"Juan Alberto Salazar Rodríguez",
+     "desdo":"No c"
 },
 {   
     "cantante":"La pozze latina",
@@ -50,7 +46,7 @@
     "titdo":"I love you a lo vio",
     "subtitdo":"Junto a Movimiento original",
     "desdo":"No c",
-    "medio":"img/chys2.jpg",
+    "medio":"img/2tiro.jpg",
     
     "tiempo":"1997",
     "pic":"img/viverap.jpg",
