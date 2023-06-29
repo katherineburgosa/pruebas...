@@ -10,7 +10,6 @@
 }
 body{
     font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
     
 }
 a {
@@ -95,14 +94,16 @@ a {
     padding-left: calc(var(--nav-width) );
 }
 
-
+.active {
+    color: var(--white-color)
+}
 .active::before {
     content: '';
     position: absolute;
     left: 0;
     width: 2px;
     height: 32px;
-  
+    background-color: var(--white-color)
 }
 .height-100 {
     height: 100vh;
@@ -208,7 +209,7 @@ a {
 
     
     .navbar .nav-links ul li.active a{
-        color:rgb(255, 255, 255); 
+        color:rgb(0, 0, 0); 
         font-weight: 500;
     }
     .navbar .menu-hamburger{
@@ -364,7 +365,7 @@ a.logo{
     text-decoration: none;
     color: orangered;
 }
-
+ul .social-icons{}
 
 
 
@@ -411,9 +412,9 @@ a.logo{
    border: none;
    box-shadow: #00000029;
 }
-h5{
-    font-family: 'Oswald', sans-serif;
-   
-    font-size: 40px;
-    font-weight: 700;
+small{
+    text-align: center;
+    position: relative;
+    display: inline;
+    color: #ff0000;
 }
