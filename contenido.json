@@ -9,7 +9,7 @@
     "imagen": "img/1tiro.jpg",
     "medio":"img/2tiro.jpg",
     "tiempo":"1997",
-    "pic":"img/2tiro.jpg",
+
     
     "monoun": "img/Lenwa.jpg",
     "altdos":"imagen de lenwa dura",
@@ -33,7 +33,7 @@
     "imagen": "img/1pozze.jpg",
     "medio":"img/2pozze.jpg",
     "tiempo":"1997",
-    "pic":"img/viverap.jpg",
+
     
     "monoun": "https://www.musicapopular.cl/wp-content/uploads/2015/07/jimmyfernandez.jpg",
     "altdos":"imagen de Jimmy Fernandez",
@@ -50,14 +50,14 @@
     "cantante":"Makiza",
     "cate":"img/makiz.jpg",
     "titulo": "Un poco de historia...",
-    "escrito": "Chystemc, el alias del MC Diego Torres Rojas oriundo de La Florida, es uno de los raperos más activos y populares de la escena local. Comenzó su carrera en el colectivo De Killtros y actualmente cuenta con cuatro discos en solitario. Con presentaciones en diversos eventos y festivales, una gran presencia en las redes sociales y su estilo único al manejar el micrófono, Chystemc se ha posicionado como un artista en plena forma. A fines de julio lanzó el video de 'Ma Ar Ei Pi', una canción de su último álbum 'Techymuv' (2016), un trabajo que ha logrado impactar tanto en Chile como en Latinoamérica. Originario de Santiago, Chystemc ha participado en batallas escritas como Línea Diéciseis y ha sido jurado en la Batalla de los Gallos, lo que demuestra su cercanía con el freestyle y la improvisación. Chyste es un rapero espontáneo que ha sabido conquistar a una audiencia fiel, y ya se encuentra preparando sus próximas canciones y shows.",
+    "escrito": "Makiza es un grupo de hip-hop chileno que se formó en 1997. En su primer periodo (1997-2000), estaban compuestos por Anita Tijoux, Seo2, Squat y Cenzi. Lanzaron su primer álbum, ‘Vida salvaje’, de forma independiente en 1998 y luego firmaron con Sony Music en 1999 para lanzar su segundo disco, ‘Aerolíneas’. Sus letras controversiales abordaban temas tabúes y criticaban la dictadura militar de Pinochet. Entre 2000 y 2004, el grupo se separó. Anita Tijoux se fue a Francia y tuvo éxito en la escena underground, mientras que los otros miembros formaron Némesis y lanzaron dos discos. En 2004, Anita, Seo2 y Cenzi se reunieron para grabar dos temas y realizar un concierto promocional. Luego, Cenzi dejó el grupo y se unieron nuevos miembros. En octubre de 2005, lanzaron su nuevo álbum, ‘Casino Royale’, con un sonido más maduro. En 2006, Seo2 dejó el grupo por razones personales. En resumen, Makiza es un grupo de hip-hop chileno que se separó en 2000 pero se reunieron en 2004 y continuaron lanzando música hasta 2006.",
     "alt1": "esta imagen es de",
-    "titulo2": "Algo está pasando",
-    "escrito2": "Integrante de De Killtros",
+    "titulo2": "Documental 'Hijo de la Rosa de los vientos'",
+    "escrito2": "Después de la vuelta a la democracia en Chile, cuatro hijos de exiliados regresaron al país y, unidos por su pasión por el hip hop y su deseo de hacerse oír, crearon Makiza, uno de los proyectos más importantes en la historia musical de Chile. Su música fusionó el rap y el hip hop con letras críticas sobre la realidad social y política de ese momento. Makiza se convirtió en un referente en la escena musical chilena, dejando un legado como pioneros del hip hop y luchadores por la libertad de expresión y la justicia social.",
     "imagen": "img/1maki.jpg",
     "medio":"img/makidoc.jpg",
     "tiempo":"1997",
-    "pic":"img/viverap.jpg",
+
     
     "monoun": "img/anita.jpg",
     "altdos":"imagen de Ana Tijoux",
@@ -77,11 +77,11 @@
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "alt1": "esta imagen es de",
     "titulo2": "Algo está pasando",
-    "escrito2": "Integrante de De Killtros",
+    "escrito2": "Hip-hop heroes, el segundo disco del grupo, se ganó varias menciones en las listas de mejores grabaciones de ese año. Fue un trabajo en el que el dúo optó por sonidos más suaves, aunque con bajos guiados por el funk y baterías. Némesis lo publicó de modo independiente bajo su propia etiqueta, Aguasónica, y consiguió una edición en España.",
     "imagen": "img/1neme.jpg",
-    "medio":"img/makidoc.jpg",
+    "medio":"https://i.scdn.co/image/ab67706c0000da84c443c911ba770fbdb5363ea2",
     "tiempo":"1997",
-    "pic":"img/viverap.jpg",
+    
    
     
     "monoun": "img/maxmak.jpg",
@@ -167,45 +167,37 @@
     "cate":"img/jonas.jpg",
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
-    "foto": "img/dekil.jpg",
     "alt1": "esta imagen es de",
     "titulo2": "Algo está pasando",
     "escrito2": "Tiro de Gracia es un influyente grupo de hip hop chileno que se formó en 1991. Está compuesto por los hermanos Juan y Zaturno, junto con Lenwa Dura como DJ y productor. Su música fusiona elementos de hip hop, rock y reggae, y se caracteriza por sus letras sociales y políticas. En 1997, lanzaron su primer álbum, &quot;Ser Humano&quot;, el cual tuvo un gran impacto en la escena musical chilena. El disco incluía canciones como &quot;El juego verdadero&quot; y &quot;Melaza&quot;, que se convirtieron en éxitos y los posicionaron comoreferentes del hip hop en el país. A lo largo de su carrera, Tiro de Gracia lanzó varios álbumes más, como &quot;Decisión&quot;, &quot;Patrón&quot; y &quot;Serpientes en el jardín. Estos trabajos consolidaron su popularidad y les permitieron realizar giras tanto en Chile como en el extranjero. Sin embargo, en 2019, el grupo anunció su separación debido a diferencias internas. A pesar de esto, los miembros han seguido involucrados en la música de forma individual. Juan y Zaturno han continuado sus carreras como solistas, y Lenwa Dura ha trabajado como DJ y productor para otros artistas. En resumen, Tiro de Gracia es una banda icónica del hip hop chileno, que dejó un legado importante en la música del país. Aunque ya no están juntoscomo grupo, su influencia perdura y su música sigue siendo apreciada por sus seguidores.",
     "imagen": "img/1jjonas.jpg",
     "medio":"img/makidoc.jpg",
-    "tiempo":"1997",
-    "pic":"img/viverap.jpg",
-    "imagendos":"img/dekil.jpg"
+    "tiempo":"1997"
 },
     { 
     "cantante":"Bubaseta",
     "cate":"img/bubaseta.jpg",
     "titulo": "Un poco de historia...",
     "escrito1": "Gianni Canisso más conocido en el ambiente hip-hop latinoamericano como Bubaseta es un MC nacido en Suiza, que a los 10 años llegó a Chile Se ha hecho conocido por su voz y su forma muy particular de cantar MCs. En el año 2007 abandona su grupo Ninja Sekta y empieza su carrera como solista sacando tres álbumes independientes.",
-    "foto": "img/dekil.jpg",
     "alt1": "esta imagen es de",
     "titulo2": "Algo está pasando",
     "escrito2": "",
     "imagen": "img/1buba.jpg",
     "medio":"img/makidoc.jpg",
     "tiempo":"1997",
-    "pic":"img/viverap.jpg",
-    "imagendos":"img/dekil.jpg"
 },
     {
     "cantante":"ChysteMc",
     "cate":"img/chyste.jpg",
     "titulo": "Un poco de historia...",
     "escrito1": "img/dekil.jpg",
-    "foto": "img/dekil.jpg",
     "alt1": "esta imagen es de",
     "titulo2": "Algo está pasando",
     "escrito2": "",
     "imagen": "img/chyste1.jpg",
     "medio":"img/makidoc.jpg",
     "tiempo":"1997",
-    "pic":"img/viverap.jpg",
-    "imagendos":"img/dekil.jpg"
+
 }
     ,
     {
@@ -213,7 +205,6 @@
     "cate":"img/movori.jpg",
     "titulo": "Un poco de historia...",
     "escrito1": "Movimiento Original es una banda de música que comenzó como un trío de músicos de Pudahuel y Estación Central. Airstame y Stailok eran rapers, pero Stailok también era fanático del reggae, y esa fusión marcó el origen y la identidad de la banda. Luego se unió DJ Acres en las tornamesas, formando el trío original. Durante dos años, se sumó el cantante Semillah, quien fue reemplazado por MC Piri en 2008. Con esta formación, grabaron su primer álbum llamado ‘Soldados del guetto’. Las canciones de Movimiento Original se basan en valores de vida, expresión de la realidad y mensajes de fraternidad, con una clara influencia del reggae en su sonido. En su disco, también incluyeron covers de canciones como ‘Manifiesto’ de Víctor Jara y ‘Yo te canto’ del grupo Elicura, además de usar samples de Víctor Jara y Pablo Neruda. Este álbum fue muy bien recibido por los seguidores del género.",
-    "foto": "img/dekil.jpg",
     "alt1": "esta imagen es de",
     "titulo2": "Encuentro...",
     "escrito2": "El 2017, presentaron Mov rap and reggae, un disco que ya habían adelantado con cuatro sencillos, y que ellos mismos definieron como más maduro, y más diverso. 'Más que soldados del guetto / somos soldados de la vida' se definieron en 'Soldjah', la canción que cantan con Kimany Marley, el hijo de Bob Marley a quien conocieron el año 2014, y que es uno de los invitados del disco. Como él, hay varios otros: Tiano Bless, Negro Sambo y el francés Sir Samuel.",
@@ -230,8 +221,8 @@
     "desdo":"No c",
     "medio":"img/mono.jpg",
     
-    "tiempo":"2006",
-    "imagendos":"img/dekil.jpg"
+    "tiempo":"2006"
+
 }
     ,
     {
@@ -239,7 +230,6 @@
     "cate":"img/cid.jpg",
     "titulo": "Un poco sobre Cidtronyck",
     "escrito": "Es un reconocido deejay y productor chileno con una trayectoria de más de quince años. Durante la última década, ha estado involucrado en proyectos musicales destacados como Salvaje Decibel, Portavoz y actualmente trabaja con la reconocida artista chilena Anita Tijoux. Cidtronyck se ha destacado por su talento y perseverancia, lo que le ha permitido recorrer Chile de norte a sur llevando su música a diversos escenarios. Su nombre está asociado con la escena musical chilena y es reconocido por su trabajo en el ámbito del deejay y la producción musical.",
-    "foto": "img/dekil.jpg",
     "alt1": "esta imagen es de Cidtronyck",
     "titulo2": "Pasado, Presente y Futuro",
     "escrito2": "“Fue un álbum muy importante para mí, porque logré visibilizar al deejay y productor detrás del emcee. Aquel personaje que está horas y horas en el estudio haciendo que todo suene en su lugar, pero que muchas veces la gente no lo reconoce porque sólo se quedan con la imagen del cantante o MC. Logré poner mi nombre por sí solo como artista y le puse un rostro, lo puse en la portada y además me di el gustito de sacar el álbum en vinilo.”",
@@ -247,7 +237,7 @@
     "medio":"https://i.pinimg.com/564x/41/7d/0f/417d0f40218232f4f566e918a3e8f052--rap.jpg",
     
     "tiempo":"1997",
-    "pic":"img/viverap.jpg",
-    "imagendos":"img/dekil.jpg"
+
+
 }
 ]
