@@ -1,11 +1,11 @@
 [{
     "titulo": "Un poco de Chyste...",
-    "escrito": "chyste es una persona muy wena",
+    "escrito": "Chystemc, el alias del MC Diego Torres Rojas oriundo de La Florida, es uno de los raperos más activos y populares de la escena local. Comenzó su carrera en el colectivo De Killtros y actualmente cuenta con cuatro discos en solitario. Con presentaciones en diversos eventos y festivales, una gran presencia en las redes sociales y su estilo único al manejar el micrófono, Chystemc se ha posicionado como un artista en plena forma. A fines de julio lanzó el video de 'Ma Ar Ei Pi', una canción de su último álbum 'Techymuv' (2016), un trabajo que ha logrado impactar tanto en Chile como en Latinoamérica. Originario de Santiago, Chystemc ha participado en batallas escritas como Línea Diéciseis y ha sido jurado en la Batalla de los Gallos, lo que demuestra su cercanía con el freestyle y la improvisación. Chyste es un rapero espontáneo que ha sabido conquistar a una audiencia fiel, y ya se encuentra preparando sus próximas canciones y shows.",
     "foto": "img/dekil.jpg",
     "alt1": "esta imagen es de",
     "titulo2": "Integrante de De Killtros",
     "escrito2": "De Killtros, un grupo oriundo de La Florida, está compuesto por Chyste MC, JavierKilltro, Noyre, Petizo's, Adosene y DJ Transe. Desde 2005, estos talentosos artistas han unido fuerzas en este proyecto, fusionando sus experiencias previas y formando una base sólida",
-    "imagen": "img/chys2.jpg",
+    "imagen": "img/chyste1.jpg",
     "descri": "Chystemyc en La casa parlante",
     "monoun": "img/mono.jpg",
     "altdos":"imagen de movimiento original",
@@ -16,8 +16,11 @@
     "altdo":"imagen de movimiento original",
     "titdo":"I love you a lo vio",
     "subtitdo":"Junto a Movimiento original",
-    "desdo":"No c"
-
+    "desdo":"No c",
+    "medio":"img/chys2.jpg",
+    "nombre":"ChysteMc",
+    "año":"2005",
+    
     
 
 },
@@ -48,7 +51,7 @@
     "alt1": "esta imagen es de",
     "titulo2": "Integrante de De Killtros",
     "escrito2": "De Killtros, un grupo oriundo de La Florida, está compuesto por Chyste MC, JavierKilltro, Noyre, Petizo's, Adosene y DJ Transe. Desde 2005, estos talentosos artistas han unido fuerzas en este proyecto, fusionando sus experiencias previas y formando una base sólida",
-    "imagen": "img/chys2.jpg",
+    "imagen": "img/1maki.jpg",
     "descri": "Chystemyc en La casa parlante",
     "monoun": "img/mono.jpg",
     "altdos":"imagen de movimiento original",
