@@ -18,8 +18,8 @@
     "subtitdo":"Junto a Movimiento original",
     "desdo":"No c",
     "medio":"img/chys2.jpg",
-    "cantante":"ChysteMc",
-    "tiempo":"2005",
+    "cantante":"Tiro de Gracia",
+    "tiempo":"1997",
     "pic":"img/viverap.jpg",
     "imagendos":"img/dekil.jpg"
     
@@ -124,7 +124,37 @@
     "tiempo":"1997",
     "pic":"img/viverap.jpg",
     "imagendos":"img/dekil.jpg"
-},{
+},
+    {
+    "titulo": "Un poco de Chyste...",
+    "escrito": "Chystemc, el alias del MC Diego Torres Rojas oriundo de La Florida, es uno de los raperos más activos y populares de la escena local. Comenzó su carrera en el colectivo De Killtros y actualmente cuenta con cuatro discos en solitario. Con presentaciones en diversos eventos y festivales, una gran presencia en las redes sociales y su estilo único al manejar el micrófono, Chystemc se ha posicionado como un artista en plena forma. A fines de julio lanzó el video de 'Ma Ar Ei Pi', una canción de su último álbum 'Techymuv' (2016), un trabajo que ha logrado impactar tanto en Chile como en Latinoamérica. Originario de Santiago, Chystemc ha participado en batallas escritas como Línea Diéciseis y ha sido jurado en la Batalla de los Gallos, lo que demuestra su cercanía con el freestyle y la improvisación. Chyste es un rapero espontáneo que ha sabido conquistar a una audiencia fiel, y ya se encuentra preparando sus próximas canciones y shows.",
+    "foto": "img/dekil.jpg",
+    "alt1": "esta imagen es de",
+    "titulo2": "Integrante de De Killtros",
+    "escrito2": "De Killtros, un grupo oriundo de La Florida, está compuesto por Chyste MC, JavierKilltro, Noyre, Petizo's, Adosene y DJ Transe. Desde 2005, estos talentosos artistas han unido fuerzas en este proyecto, fusionando sus experiencias previas y formando una base sólida",
+    "imagen": "img/chyste.jpg",
+    "descri": "Chystemyc en La casa parlante",
+    "monoun": "img/mono.jpg",
+    "altdos":"imagen de movimiento original",
+    "tit":"I love you a lo vio",
+    "subtit":"Junto a Movimiento original",
+    "des":"No c",
+    "monodo": "img/mono.jpg",
+    "altdo":"imagen de movimiento original",
+    "titdo":"I love you a lo vio",
+    "subtitdo":"Junto a Movimiento original",
+    "desdo":"No c",
+    "medio":"img/chys2.jpg",
+    "cantante":"ChysteMc",
+    "tiempo":"2005",
+    "pic":"img/viverap.jpg",
+    "imagendos":"img/dekil.jpg"
+    
+    
+    
+
+},
+    {
     "titulo": "Un poco de historia...",
     "escrito": "Jorge Andy Ferrer Milanao, conocido como Portavoz, es un destacado rapero chileno que se formó en los circuitos de hip-hop del norte de Santiago en los años 2000. Sus letras abordan temas como el amor, historias de vida y política, y han trascendido más allá del ámbito del rap. Canciones como &quot;El otro Chile&quot;, &quot;Desde&quot; o &quot;Solo para ti&quot; acumulan millones de reproducciones en plataformas de streaming y se escuchan en diferentes eventos, desde fiestas hasta actos políticos y protestas estudiantiles. Portavoz ha actuado en sindicatos regionales, festivales de hip-hop, Lollapalooza y ha llevado su música a países de Europa y América. Además de su carrera en solitario, Portavoz se ha considerado parte de la comunidad rapera chilena y ha colaborado e invitado a varios artistas del rap nacional en sus canciones. También es miembro del grupo Salvaje Decibel. Su impacto y alcance en la escena musical lo han consolidado como uno de los principales referentes de su generación.",
     "foto": "img/dekil.jpg",
